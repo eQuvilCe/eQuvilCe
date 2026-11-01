@@ -1,45 +1,47 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=1400&pause=600&color=C41E3A&center=true&vCenter=true&width=480&lines=1000+-+7+%3D+993;993+-+7+%3D+986;986+-+7+%3D+979;979+-+7+%3D+972;...;eQuvilCe" alt="1000 - 7" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=1000+%E2%88%92+7+%3D+993;993+%E2%88%92+7+%3D+986;986+%E2%88%92+7+%3D+979;979+%E2%88%92+7+%3D+972;972+%E2%88%92+7+%3D+965;e+Q+u+v+i+l+C+e" alt="1000 − 7" />
+
+<sub>嘘喰い　×　東京喰種</sub>
 
 <br/>
 
-`♠ ♥ ♦ ♣`
-
-**developer · game dev · liar's game player**
-
-<sub>web · backend · unity</sub>
+<code>full-stack developer</code>　<code>javascript everywhere</code>　<code>lie eater</code>
 
 </div>
 
 <br/>
 
-```txt
-> whoami
-  eQuvilCe — Tashkent, UZ
-  building web apps, backends and games
+<pre align="center">
+♠   <b>the game</b>
+    I build things from the first pixel to the last query.
+    Frontend, backend, everything in between.
 
-> current_bet
-  MoneyPulse · VitaPulse · FPS shooter
+♥   <b>bets on the table</b>
+    <a href="https://github.com/eQuvilCe/MoneyPulse">MoneyPulse</a>   —  money, under control
+    <a href="https://github.com/eQuvilCe/VitaPulse">VitaPulse</a>    —  AI health OS
 
-> rule
-  never bluff in production.
-```
+♦   <b>house rules</b>
+    Every lie gets eaten. Every bug gets found.
+    Never bluff in production.
+
+♣   <b>next hand</b>
+    Java.
+</pre>
 
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,python,fastapi,postgres,unity,git&theme=dark" />
-
-<br/><br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=eQuvilCe&show_icons=true&hide_border=true&hide_title=true&bg_color=0d0d0d&text_color=d9d9d9&icon_color=c41e3a&title_color=c41e3a&ring_color=c41e3a" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eQuvilCe&layout=compact&hide_border=true&bg_color=0d0d0d&text_color=d9d9d9&title_color=c41e3a" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,git,github&theme=dark&perline=10" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=eQuvilCe&hide_border=true&background=0D0D0D&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=D9D9D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=1A1A1A" />
+<sub>next up　→　</sub><img src="https://skillicons.dev/icons?i=java&theme=dark" height="24" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=eQuvilCe&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" />
 
 <br/><br/>
 
