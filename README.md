@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 <img src="https://img.shields.io/badge/WebGL-0D1117?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=white" />
