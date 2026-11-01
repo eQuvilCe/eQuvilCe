@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<code>full-stack developer</code>　
+　
 </div>
 
 <br/>
