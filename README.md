@@ -1,3 +1,6 @@
+![mage](https://github.com/eQuvilCe/eQuvilCe/blob/9ed1974484d2c8a37efa208561c0ce46ee8620f6/me.jpg)
+
+
 <div align="center">
 
 <img src="banner3.svg" width="100%" alt="eQuvilCe" />
