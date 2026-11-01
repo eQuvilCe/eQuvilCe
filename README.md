@@ -1,4 +1,4 @@
-![mage](https://github.com/eQuvilCe/eQuvilCe/blob/9ed1974484d2c8a37efa208561c0ce46ee8620f6/me.jpg)
+![mage](https://github.com/user-attachments/assets/23c4906a-4b44-4857-8c78-8c3537b8a619)
 
 
 <div align="center">
