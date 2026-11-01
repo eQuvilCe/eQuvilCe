@@ -72,4 +72,3 @@
 </div>
 
 
-![mage](https://github.com/user-attachments/assets/23c4906a-4b44-4857-8c78-8c3537b8a619)
