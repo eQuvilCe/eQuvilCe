@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="banner3.svg" width="100%" alt="eQuvilCe" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&duration=2600&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=1000+%E2%88%92+7+%3D+993;993+%E2%88%92+7+%3D+986;986+%E2%88%92+7+%3D+979;979+%E2%88%92+7+%3D+972;972+%E2%88%92+7+%3D+965;e+Q+u+v+i+l+C+e" alt="1000 − 7" />
 
 <br/>
@@ -10,7 +14,8 @@
 
 <br/><br/>
 
-<code>full-stack developer</code>　
+<code>full-stack developer</code>　<code>javascript everywhere</code>　<code>lie eater</code>
+
 </div>
 
 <br/>
@@ -57,10 +62,6 @@
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white" />
-
-<br/><br/>
-
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3D contributions" />
 
 <br/><br/>
 
