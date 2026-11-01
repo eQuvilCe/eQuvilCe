@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<code>full-stack developer</code> <code>try harder</code>
+<code>full-stack developer</code> 
 
 </div>
 
