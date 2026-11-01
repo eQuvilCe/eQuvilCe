@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<code>full-stack developer</code>　
+<code>full-stack developer</code>　<code>javascript everywhere</code>
 
 </div>
 
