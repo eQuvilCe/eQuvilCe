@@ -16,7 +16,7 @@
 <text class="mono" x="70" y="100" font-size="54" font-weight="200" letter-spacing="10" fill="#f5f5f5">eQuvilCe</text>
 <rect x="72" y="124" width="380" height="1" fill="#30363d"/>
 <circle class="pulse" cx="458" cy="124.5" r="3.2" fill="#c41e3a"/>
-<text class="mono" x="72" y="156" font-size="13" letter-spacing="5" fill="#8b949e">FULL-STACK  ·  LIE EATER</text>
+<text class="mono" x="72" y="156" font-size="13" letter-spacing="5" fill="#8b949e">FULL-STACK  ·  </text>
 <text class="mono" x="72" y="186" font-size="13" letter-spacing="3" fill="#6e7681">&gt; the stakes are always higher<tspan class="blink" fill="#f5f5f5">_</tspan></text>
 <rect x="620" y="40" width="1" height="160" fill="#21262d"/>
 <g transform="translate(690,120)"><g class="flip" style="animation-delay:0s">
