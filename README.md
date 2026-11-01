@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<code>full-stack developer</code>　<code>javascript everywhere</code>　<code>lie eater</code>
+<code>full-stack developer</code>　
 
 </div>
 
