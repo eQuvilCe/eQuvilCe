@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=eQuvilCe&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=30363D" />
+<img src="https://raw.githubusercontent.com/eQuvilCe/eQuvilCe/output/snake.svg" alt="snake eating contributions" />
 
 <br/><br/>
 
