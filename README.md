@@ -22,9 +22,7 @@
 <br/>
 
 <pre align="center">
-♠   <b>the game</b>
-    I build things from the first pixel to the last query.
-    Frontend, backend, everything in between.
+♠   Frontend, backend, everything in between.
 
 ♥   <b>bets on the table</b>
     <a href="https://github.com/eQuvilCe/MoneyPulse">MoneyPulse</a>   —  money, under control
